@@ -21,3 +21,4 @@
 ## [Result]
 
 화면구성
+<img width="80%" src="https://user-images.githubusercontent.com/85176433/120652180-7a50aa00-c4ba-11eb-8942-b6795388ea45.png"/>
