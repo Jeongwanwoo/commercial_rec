@@ -20,6 +20,10 @@
 
 ## [Result]
 
-*화면구성
-
+### 화면구성
+* 검색 화면
 <img width="80%" src="https://user-images.githubusercontent.com/85176433/120652180-7a50aa00-c4ba-11eb-8942-b6795388ea45.png"/>
+
+* 결과 화면
+<img width="80%" src="https://user-images.githubusercontent.com/85176433/120652227-863c6c00-c4ba-11eb-8237-dbf1feec26b2.png"/>
+
