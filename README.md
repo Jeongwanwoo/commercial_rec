@@ -3,15 +3,14 @@
 
 ## [environment]
 
-* What is it, what does it do / Abstract
-* Project status: working/prototype
-* Nuxeo Support
+* Python3.9
+* python library : flask, sklearn, pandas, matplotlib, seaborn 
 
-See real examples:
+## [Dataset]
 
-* <https://github.com/nuxeo/nuxeo/blob/master/README.md>
-* <https://github.com/nuxeo/nuxeo-drive/blob/master/README.md>
-* <https://github.com/nuxeo/nuxeo-sdk-ios/blob/master/README.md>
+* 서울특별시_우리마을가게 상권분석서비스(상권_추정매출)
+* 서울특별시_우리마을가게 상권분석서비스(상권_추정유동인구)
+* 서울특별시_우리마을가게 상권분석서비스(상권_상주인구)
 
 ## Table of contents
 
